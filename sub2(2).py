@@ -32,8 +32,8 @@ import matplotlib.pyplot as plt
 
 import os
 
-os.environ['KAGGLE_USERNAME'] = 'hyotoo'
-os.environ['KAGGLE_KEY'] = '4fa09ef5ec8c7973cf7d763bafbada38'
+os.environ['KAGGLE_USERNAME'] = ' '
+os.environ['KAGGLE_KEY'] = ' '
 
 """# **Load Dataset**"""
 
